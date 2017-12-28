@@ -26,3 +26,5 @@ https://giphy.com/gifs/7tzfGw28BCwAE/html5
 https://giphy.com/gifs/4qANoeI3g45a0/html5
 # wile e coyote wall deploy
 https://giphy.com/gifs/73FzKOYDpp7VK/html5
+# ship revert
+https://giphy.com/gifs/143vPc6b08locw/html5
